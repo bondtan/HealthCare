@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Health Care</string>
+    <string name="current_measure">Current measure</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="time_date"><u>Time:</u>\nDate:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="blood_pressure">Blood pressure</string>
+    <string name="systolic_pressure">Systolic</string>
+    <string name="diastolic_pressure">Diastolic</string>
+    <string name="button_save">Save</string>
+    <string name="bpm">beats per minute</string>
+    <string name="pulse">Pulse</string>
+    <string name="settings">Settings</string>
+    <string name="mmhg">mmHg</string>
+    <string name="error_blood_pressure">Incorrect value. Please, re-measure blood pressure!</string>
+    <string name="error_pulse">Incorrect value. Please, re-measure blood pulse!</string>
+    <string name="list_measure">List of measure</string>
+    <string name="menu_health_card_item">Open menu item health</string>
+    <string name="add_value">Add new value…</string>
+    <string name="choose_day">Choose a day</string>
+    <string name="theme">Theme</string>
+    <string name="checked">Checked</string>
+    <string name="light_mode">Light</string>
+    <string name="dark_mode">Dark</string>
+    <string name="color">Color</string>
+    <string name="text_size">Text size</string>
+    <string name="example_text">Aa, Bb, Cc…</string>
+    <string name="shape_round">Round</string>
+    <string name="shape_squire">Squire</string>
+    <string name="notification_title">Health Care</string>
+    <string name="notification_text">Measure blood pressure and pulse</string>
+    <string name="health_notification">health_care_notification</string>
+    <string name="view_shape">View shape</string>
+    <string name="notification">Notification</string>
+    <string name="dialog_setting_notification_title">Notification show time</string>
+    <string name="subscribe_notification">Subscribe to receive notifications</string>
+    <string name="description_notification_channel">Notification for Health</string>
+    <string name="name_notification_cannel">Health notification Channel</string>
+
+    <string-array name="notification_count_array">
+        <item>Once a day</item>
+        <item>Twice a day\n(every 12 hours)</item>
+    </string-array>
+
+    <string-array name="one_notification_time_array">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+
+</resources>

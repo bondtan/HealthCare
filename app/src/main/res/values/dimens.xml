@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_ordinary">8dp</dimen>
+    <dimen name="padding_large">12dp</dimen>
+    <dimen name="width_border_row">2dp</dimen>
+    <dimen name="spacer_ordinary">8dp</dimen>
+    <dimen name="spacer_large">16dp</dimen>
+    <dimen name="ordinary_icon">24dp</dimen>
+    <dimen name="header_icon">40dp</dimen>
+    <dimen name="large_icon">60dp</dimen>
+    <dimen name="pressure_icon">100dp</dimen>
+    <dimen name="elevation_card">8dp</dimen>
+    <dimen name="width_pressure_card_item">40dp</dimen>
+    <dimen name="height_pressure_card_item">300dp</dimen>
+</resources>
